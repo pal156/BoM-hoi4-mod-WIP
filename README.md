@@ -7,7 +7,7 @@ Checklist (need to do)
 * Modify Civilan industry (adding state buildings that produce steel similar to Road To 56)
 * Modify Infantry equipment (adding seperate things such as machine guns, mortars, and etc as a seperate production line)
 * increase state factory limits 
-* rework italy national focus tree
+* rework italy completely
 * rework minor's focus tree
 * rework most major's focus tree that can start with Historial route or alt route to be oddly compactiable for casual hoi4 gamers
 * Railwork balancing stuff (maybe, perhaps lowering the cost to supply hubs)
