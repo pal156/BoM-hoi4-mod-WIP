@@ -12,3 +12,9 @@ Checklist (need to do)
 * rework most major's focus tree that can start with Historial route or alt route to be oddly compactiable for casual hoi4 gamers
 * Railwork balancing stuff (maybe, perhaps lowering the cost to supply hubs)
 * Add national spirits to certain majors (limiting early military build up for the USA is an example)
+
+Already Done
+* Gibratar is now only naval invasion state
+* made the Denmark Straits more historally accurate
+* Created a new strait called the Tallinn strait (requires both finland and estonia to be held to firmly control the strait)
+* Incorpated the spot's mod into this for performance 
