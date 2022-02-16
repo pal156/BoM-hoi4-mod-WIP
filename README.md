@@ -15,6 +15,6 @@ Checklist (need to do)
 
 Already Done
 * Gibratar is now only naval invasion state
-* made the Denmark Straits more historally accurate
+* made the Denmark Straits more historally accurate (Need to invade Norway, instead of taking Denmark's captial)
 * Created a new strait called the Tallinn strait (requires both finland and estonia to be held to firmly control the strait)
 * Incorpated the spot's mod into this for performance 
