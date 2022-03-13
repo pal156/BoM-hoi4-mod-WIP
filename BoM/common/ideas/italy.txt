@@ -59,7 +59,7 @@ ideas = {
 		poor_equipment = {			
 			
 			allowed = {
-				original_tag = "ITA"
+				tag = ITA
 			}
 
 			allowed_civil_war = {
@@ -68,11 +68,9 @@ ideas = {
 			
 			removal_cost = -1
 			
-			equipment_bonus = {
-				instant = yes
-				infantry_equipment = {
-					reliability = -0.4
-				}
+			modifier = {
+				equipment_upgrade_xp_cost = 0.5
+				equipment_conversion_speed = -0.2
 			}
 		}
 		ITA_german_millitary_cooperation_focus = {
