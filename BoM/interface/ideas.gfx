@@ -6347,5 +6347,9 @@ spriteTypes = {
 		name = "GFX_idea_poor_equipment"
 		texturefile = "gfx/interface/ideas/poor_equipment.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_poor_vehicles"
+		texturefile = "gfx/interface/ideas/poor_vehicles.dds"
+	}
 	
 }

@@ -24,6 +24,7 @@ add_ideas = {
 	victor_emmanuel
 	vittoria_mutilata
 	poor_equipment
+	poor_vehicles
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
