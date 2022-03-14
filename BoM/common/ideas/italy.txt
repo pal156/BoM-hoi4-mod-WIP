@@ -72,6 +72,29 @@ ideas = {
 				equipment_upgrade_xp_cost = 0.5
 				equipment_conversion_speed = -0.2
 			}
+			equipment_bonus = {
+				infantry_equipment = {
+					instant = yes
+					reliability = -0.2
+					defense = -0.05
+					soft_attack = -0.1
+				}
+				light_tank_chassis = {
+					reliability = -0.2
+					hardness = -0.05
+					armor_value = -0.1
+				}
+				medium_tank_chassis = {
+					reliability = -0.3
+					hardness = -0.15
+					armor_value = -0.1
+				}
+				heavy_tank_chassis = {
+					reliability = -0.6
+					hardness = -0.20
+					armor_value = -0.1
+				}
+			}
 		}
 		ITA_german_millitary_cooperation_focus = {
 
