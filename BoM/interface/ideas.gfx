@@ -6351,5 +6351,20 @@ spriteTypes = {
 		name = "GFX_idea_poor_vehicles"
 		texturefile = "gfx/interface/ideas/poor_vehicles.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_idea_poor_equipment_1"
+		texturefile = "gfx/interface/ideas/poor_equipment.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_poor_vehicles_1"
+		texturefile = "gfx/interface/ideas/poor_vehicles.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_good_equipment_1"
+		texturefile = "gfx/interface/ideas/poor_equipment.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_good_vehicles_1"
+		texturefile = "gfx/interface/ideas/poor_vehicles.dds"
+	}
 }

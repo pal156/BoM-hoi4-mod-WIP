@@ -177,6 +177,66 @@ ideas = {
 				}
 			}
 		}
+		good_equipment_1 = {			
+			
+			allowed = {
+				tag = ITA
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			equipment_bonus = {
+				infantry_equipment = {
+					instant = yes
+					reliability = 0.2
+					defense = 0.1
+					soft_attack = 0.1
+				}
+				artillery_equipment = {
+					instant = yes
+					soft_attack = 0.1
+				}
+			}
+		}
+		good_vehicles_1 = {			
+			
+			allowed = {
+				tag = ITA
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			modifier = {
+				equipment_upgrade_xp_cost = -0.05
+				equipment_conversion_speed = 0.1
+			}
+			
+			equipment_bonus = {
+				light_tank_chassis = {
+					instant = yes
+					reliability = 0.2
+					maximum_speed = 0.2
+				}
+				medium_tank_chassis = {
+					instant = yes
+					reliability = 0.2
+					soft_attack = 0.1
+				}
+				heavy_tank_chassis = {
+					instant = yes
+					reliability = 0.25
+					hardness = 0.1
+				}
+			}
+		}
 		ITA_german_millitary_cooperation_focus = {
 
 			picture = german_advisors
