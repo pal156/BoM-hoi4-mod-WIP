@@ -56,7 +56,28 @@ ideas = {
 				justify_war_goal_time = -0.1
 			}
 		}
-		poor_equipment = {			
+		italian_ethoiopian_war = {			
+			
+			allowed = {
+				original_tag = "ITA"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					OR = {
+						has_government = communism
+						has_government = democratic
+					}
+				}
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				offence = 0.25
+			}
+		}
+		poor_equipment = {
 			
 			allowed = {
 				tag = ITA
@@ -81,7 +102,7 @@ ideas = {
 				}
 			}
 		}
-	poor_equipment_1 = {			
+		poor_equipment_1 = {
 			
 			allowed = {
 				tag = ITA
@@ -101,7 +122,7 @@ ideas = {
 				}
 			}
 		}
-		poor_vehicles = {			
+		poor_vehicles = {
 			
 			allowed = {
 				tag = ITA
@@ -116,6 +137,7 @@ ideas = {
 			modifier = {
 				equipment_upgrade_xp_cost = 0.25
 				equipment_conversion_speed = -0.2
+				army_armor_attack_factor = -0.1
 			}
 			
 			equipment_bonus = {
@@ -217,8 +239,9 @@ ideas = {
 			modifier = {
 				equipment_upgrade_xp_cost = -0.05
 				equipment_conversion_speed = 0.1
+				army_armor_attack_factor = 0.1
+
 			}
-			
 			equipment_bonus = {
 				light_tank_chassis = {
 					instant = yes

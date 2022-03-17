@@ -25,6 +25,7 @@ add_ideas = {
 	vittoria_mutilata
 	poor_equipment
 	poor_vehicles
+	italian_ethoiopian_war
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
